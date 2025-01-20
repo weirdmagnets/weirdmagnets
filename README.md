@@ -19,35 +19,26 @@ We specialize in designing and delivering innovative AI/ML-powered software solu
 - **AI & ML Development:** From predictive analytics to natural language processing, we harness the power of AI/ML to create transformative solutions.
 - **Custom Software Solutions:** We build bespoke software tailored to meet unique business challenges.
 - **Automation & Optimization:** Streamlining processes to boost efficiency and productivity.
+- **Web Development:** Crafting responsive, user-friendly websites and applications.
+- **Cloud Solutions:** Leveraging **GCP** and **AWS** for scalable and secure cloud infrastructures.
 
 ---
 
 ## 🛠️ Tools We Use
-We leverage a variety of powerful tools and frameworks to drive our analytics and ML solutions. Below are some of the key technologies we work with:
+We leverage a variety of powerful tools and frameworks to drive our analytics, ML, and software development solutions. Below are some of the key technologies we work with:
 
-### 1. **TensorFlow**  
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)  
-A leading open-source library for machine learning and deep learning.
-
-### 2. **PyTorch**  
-![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)  
-An innovative framework for building dynamic ML models and neural networks.
-
-### 3. **Pandas**  
-![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg)  
-A versatile library for data manipulation and analysis.
-
-### 4. **NumPy**  
-![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)  
-The backbone of numerical computing for AI/ML.
-
-### 5. **Scikit-learn**  
-![Scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)  
-A simple and efficient library for predictive data analysis.
-
-### 6. **Matplotlib**  
-![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)  
-A visualization library for creating static, interactive, and animated plots.
+| Tool            | Logo                                                                                              | Description                                              |
+|------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| **TensorFlow**  | ![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)       | A leading open-source library for machine learning.      |
+| **PyTorch**     | ![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)             | A framework for building dynamic ML models.              |
+| **Pandas**      | ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg)               | Library for data manipulation and analysis.              |
+| **NumPy**       | ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)            | Essential for numerical computing in AI/ML.              |
+| **Scikit-learn**| ![Scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) | Library for predictive data analysis.                   |
+| **Matplotlib**  | ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)        | Visualization library for creating insightful plots.      |
+| **Java**        | ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)    | High-performance programming language for software.       |
+| **C Programming** | ![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)                      | Foundational language for system-level programming.       |
+| **GCP**         | ![GCP Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.png)            | Google Cloud Platform for cloud-based solutions.         |
+| **AWS**         | ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)     | Amazon Web Services for scalable cloud services.         |
 
 ---
 
@@ -67,7 +58,7 @@ We’re always looking for partners, collaborators, and like-minded innovators t
 
 ### 🌐 Connect with Us:
 - [Website](#) *(Coming Soon)*
-- [LinkedIn](https://www.linkedin.com/company/weird-magnets/) 
+- [LinkedIn](#)
 
 ---
 
