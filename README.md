@@ -29,16 +29,16 @@ We leverage a variety of powerful tools and frameworks to drive our analytics, M
 
 | Tool            | Logo                                                                                              | Description                                              |
 |------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| **TensorFlow**  | ![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)       | A leading open-source library for machine learning.      |
-| **PyTorch**     | ![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)             | A framework for building dynamic ML models.              |
-| **Pandas**      | ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg)               | Library for data manipulation and analysis.              |
-| **NumPy**       | ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)            | Essential for numerical computing in AI/ML.              |
-| **Scikit-learn**| ![Scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) | Library for predictive data analysis.                   |
-| **Matplotlib**  | ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)        | Visualization library for creating insightful plots.      |
-| **Java**        | ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)    | High-performance programming language for software.       |
-| **C Programming** | ![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)                      | Foundational language for system-level programming.       |
-| **GCP**         | ![GCP Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.png)            | Google Cloud Platform for cloud-based solutions.         |
-| **AWS**         | ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)     | Amazon Web Services for scalable cloud services.         |
+| **TensorFlow**  | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="100"> | A leading open-source library for machine learning.      |
+| **PyTorch**     | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="100">    | A framework for building dynamic ML models.              |
+| **Pandas**      | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="100">     | Library for data manipulation and analysis.              |
+| **NumPy**       | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100"> | Essential for numerical computing in AI/ML.              |
+| **Scikit-learn**| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100"> | Library for predictive data analysis.                   |
+| **Matplotlib**  | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="100"> | Visualization library for creating insightful plots.      |
+| **Java**        | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100"> | High-performance programming language for software.       |
+| **C Programming** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="100">        | Foundational language for system-level programming.       |
+| **GCP**         | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.png" width="100"> | Google Cloud Platform for cloud-based solutions.         |
+| **AWS**         | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100"> | Amazon Web Services for scalable cloud services.         |
 
 ---
 
